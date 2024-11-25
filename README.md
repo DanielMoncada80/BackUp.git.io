@@ -1,17 +1,17 @@
-Página recreada para almacenar y centralizar toods los Looker Studio y Site administrados o de ínteres para el Sistema integrado de Gestión.
+Página recreada para almacenar y centralizar todos los Looker Studio y Site administrados o de interés para el Sistema integrado de Gestión.
 
-![alt text](/Imagenes/image.png)
+![alt text](/image.png)
 
 Cómo interactuar:
 
-* En el titúlo del Site o Looker, puedes dar click y te redireccionara a la pagína del aplicativo.
-* En la pagína de inicio estara la información relevante asociada a las instrucciónes de uso.
-* En la pagína de site, encontraras los Sites relacionados al SIG y algunos de su interes.
+* En el título del Site o Looker, puedes dar clic y te re direccionara a la página del aplicativo.
+* En la página de inicio estará la información relevante asociada a las instrucciones de uso.
+* En la página encontraras los Sites relacionados al SIG y algunos de su interés.
 
 
-Con esta implementación se busca aprovechar las herramientas técnologicas y centralizar toda la información de interes asociada a tableros digíales. en un mismo lugar.
+Con esta plataforma se busca aprovechar las herramientas tecnológicas y centralizar toda la información de interés asociada a tableros digítales en un mismo lugar.
 
-En caso de tener dudas o alguna inquitud contactar a:
-
-Dmoncada@noel.com.co
-Cel: 3206583971
+En caso de tener dudas o alguna inquietud contactar a:
+Daniel Moncada
+Correo: Dmoncada@noel.com.co
+Cel. 3206583971
